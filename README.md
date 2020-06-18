@@ -27,4 +27,4 @@ The game is played with black-and-white tiles on an 8x8 board. The object of the
 
 ## Disclaimer
 
-This is a personal project for *CS5001 Intensive Foundations of Computer Science* and a Git repository was not used originally. For maintaining academic intergity, please do NOT reuse any code in this repository if you are working on your project for a related course.
+This is a personal project for *CS5001 Intensive Foundations of Computer Science* and a Git repository was not used originally. For maintaining academic integrity, please do NOT reuse any code in this repository if you are working on your project for a related course.
