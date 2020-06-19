@@ -2,6 +2,8 @@
 
 A simple Python-based version of [Othello game](https://en.wikipedia.org/wiki/Reversi) built with the [turtle library](https://docs.python.org/3.7/library/turtle.html).
 
+![Othello Game](othello.gif)
+
 ## Instructions
 
 Start: `python game.py` (python3 is required for playing the game)
